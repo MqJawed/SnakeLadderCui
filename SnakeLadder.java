@@ -124,7 +124,7 @@ class SnakeLadder
                 }
             }
 
-            if(i == 5)
+            if(i == 7)
             {
                 System.out.println();
             }
@@ -157,7 +157,7 @@ class SnakeLadder
                 }
             }
 
-           if(i == 5)
+           if(i == 7)
             {
                 System.out.println();
             }
